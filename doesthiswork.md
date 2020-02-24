@@ -10,4 +10,7 @@ So were gonna do the cool text now
 
 **and this text should be bold**
 
-[Kanye Walking A Alligator](https://pics.me.me/kanye-walking-a-damn-alligator-47977930.png)
+![Kanye Walking A Alligator](https://pics.me.me/kanye-walking-a-damn-alligator-47977930.png)
+
+:poland: :norway:
+:smile:
